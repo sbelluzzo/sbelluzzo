@@ -1,9 +1,9 @@
 ### Hi there 👋
 
 Thanks for dropping by! I'm Simon (he/him or they/them), and I:
-- lead the IT team at Mordialloc College,
-- develop staff and student capabilities with ICT and data analysis,
-- analyse data to improve the College,
+- 🔭 lead the IT team at Mordialloc College,
+- 💻 develop staff and student capabilities with ICT and data analysis,
+- 📈 analyse data to improve the College,
 - 👨‍🏫 teach Computing, STEM, Maths and Science, including our VCE (senior) computing classes.
 
 I’m currently working on:
